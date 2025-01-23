@@ -105,11 +105,13 @@ Confusion Matrix:
 If you use this project in your research or development, please cite it as follows:
 
 ```
-@software{your_project,
-  title={ECG Signal Analysis and Classification},
-  author={Your Name},
-  year={2025},
-  url={https://github.com/your-repo/ecg-analysis}
+@inproceedings{wang2024ecg,
+  title={Ecg unveiled: Analysis of client re-identification risks in real-world ecg datasets},
+  author={Wang, Ziyu and Kanduri, Anil and Aqajari, Seyed Amir Hossein and Jafarlou, Salar and Mousavi, Sanaz R and Liljeberg, Pasi and Malik, Shaista and Rahmani, Amir M},
+  booktitle={2024 IEEE 20th International Conference on Body Sensor Networks (BSN)},
+  pages={1--4},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
